@@ -1,6 +1,9 @@
 # Nlp_emotions_classifier
 Machine learning models to classify emotions in text samples
 
+Used Models:
+1. NAIVE BAYERS
+2. SVM (SUPPORT VECTOR MACHINE)
 
 Key components to be fulfilled :
 
